@@ -7,6 +7,8 @@
 <div align=center>
 
 ## 💻 Frontend Developer 💻
+<hr/>
+
+
 
 <div align=center>
-
