@@ -46,7 +46,7 @@
 
 ## 😀 My GIthub Status 😀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hA2zy&show_icons=true&theme=)
 
 </div>
 
