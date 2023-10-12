@@ -2,7 +2,7 @@
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welecome%20YunGyo's%20github&fontSize=50"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Welcome%20YunGyo's%20Github%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <div align=center>
 
@@ -58,6 +58,10 @@
 
 </div>
 
+<div align=center>
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+
+</div>
 
 
