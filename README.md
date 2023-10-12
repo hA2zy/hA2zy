@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Welcome%20YunGyo's%20Github%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Welcome%20YunGyo's%20Github%20%20&height=200&fontSize=50&fontColor=ffffff)
 
 <div align=center>
 
