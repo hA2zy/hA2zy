@@ -58,10 +58,6 @@
 
 </div>
 
-<div align=center>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
-
 </div>
 
 
