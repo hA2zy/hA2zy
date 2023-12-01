@@ -52,7 +52,7 @@
 
 <div align=center>
 
-[![Wakatime](https://wakatime.com/badge/user/Your_Wakatime_Unique_Identifier.svg)](https://wakatime.com/@Your_Wakatime_Username)
+[![wakatime](https://wakatime.com/badge/user/018bd848-72ab-4bde-812d-545297f532e1.svg)](https://wakatime.com/@018bd848-72ab-4bde-812d-545297f532e1)
 
 </div>
 
