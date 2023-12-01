@@ -50,6 +50,12 @@
 
 </div>
 
+<div align=center>
+
+[![Wakatime](https://wakatime.com/badge/user/Your_Wakatime_Unique_Identifier.svg)](https://wakatime.com/@Your_Wakatime_Username)
+
+</div>
+
 </div>
 
 
