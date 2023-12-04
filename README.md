@@ -50,9 +50,7 @@
 
 </div>
 
-<div align=center>
-
-[![wakatime](https://wakatime.com/badge/user/018bd848-72ab-4bde-812d-545297f532e1.svg)](https://wakatime.com/@018bd848-72ab-4bde-812d-545297f532e1)
+<div align=center>\
 
 </div>
 
